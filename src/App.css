@@ -1,0 +1,72 @@
+.App-body{
+  background-color: #F2FFF2;
+}
+
+.App-header {
+  position: relative;
+  background-color: #7CC5A5;
+  height: 50px;
+  display: flex;
+  flex-direction: row-reverse;
+  color: white;
+}
+
+.App-button{
+  padding: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 20px;
+  height: 20px;
+  margin-top: 10px;
+  margin-left: 30px;
+  margin-right: 40px;
+  font-size: 15px;
+  color: #6A5533;
+  font-weight: bold;
+}
+
+.button-1{
+  margin-right: 10px;
+  padding-left: 47px;
+  padding-right: 47px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border: 3px solid #F0BB63;
+}
+
+.button-2{
+  background-color: #F0BB63;
+}
+
+.App-name{
+  position: absolute;
+  left: 30px;
+  margin-top: 1px;
+  font-size: 35px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.App-slogan{
+  text-align: center;
+  font-size: 25px;
+}
+
+.App-logo{
+  margin-top: 3%;
+  margin-left: 10%;
+  width: 45%;
+}
+
+.App-main{
+  display: flex;
+  flex-direction: row;
+}
+
+.App-text{
+  width: 25%;
+  margin-top: 12%;
+  margin-left: 10%;
+  text-align: center;
+  font-size: 30px;
+}
